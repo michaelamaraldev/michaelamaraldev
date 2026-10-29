@@ -1,6 +1,6 @@
 <h2> Hi, I'm Michael! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<p><em>Software Development Intern (AI & NLP) @ SiDi <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Analysis and Systems Development Student @ UNINTER <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<p><em>Software Development Intern (AI & NLP) @ SiDi </br>Analysis and Systems Development Student @ UNINTER
 </em></p>
 
 [![Linkedin: michaelamaraldev](https://img.shields.io/badge/-michaelamaraldev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michaelamaraldev/)](https://www.linkedin.com/in/michaelamaraldev/)
@@ -11,7 +11,7 @@
 ```python
 developer = {
   "location": "Campinas, SP - Brazil",
-  "role": "Software Development Intern @ SiDi 🤖",
+  "role": "Software Development Intern @ SiDi",
   "focus": ["Artificial Intelligence", "NLP", "Intelligent Virtual Assistants", "Machine Learning"],
   "stack": ["Python", "TypeScript"],
   "hobby": "Cinema",
